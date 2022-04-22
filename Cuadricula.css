@@ -75,13 +75,13 @@ body {
 
 .pizzas{
     border-radius: 20px;
-    width: 150px; 
-    height: 150px;
+    width: 100px; 
+    height: 100px;
     padding-top: 2px;
 }
 
 .fuente{
-    font-size: medium;
+    font-size: x-small;
     font-family: Cambria; 
     text-align: left; 
     color: white;
