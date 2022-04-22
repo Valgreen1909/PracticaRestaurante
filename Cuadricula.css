@@ -75,11 +75,17 @@ body {
 
 .pizzas{
     border-radius: 20px;
-    width: 200px; 
-    height: 200px;
+    width: 150px; 
+    height: 150px;
     padding-top: 2px;
 }
 
+.fuente{
+    font-size: small;
+    font-family: Cambria; 
+    text-align: left; 
+    color: white;
+}
 
 @media (min-width: 900px){
     .contenedor{
@@ -108,5 +114,12 @@ body {
         width: 300px; 
         height: 300px;
         padding-top: 2px;
+    }
+    
+    .fuente{
+        font-size: small;
+        font-family: Cambria; 
+        text-align: left; 
+        color: white;
     }
 }
