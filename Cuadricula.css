@@ -81,7 +81,7 @@ body {
 }
 
 .fuente{
-    font-size: small;
+    font-size: medium;
     font-family: Cambria; 
     text-align: left; 
     color: white;
@@ -117,9 +117,6 @@ body {
     }
     
     .fuente{
-        font-size: small;
-        font-family: Cambria; 
-        text-align: left; 
-        color: white;
+        font-size: large;
     }
 }
